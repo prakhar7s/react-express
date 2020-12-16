@@ -1,0 +1,20 @@
+.users {
+  width: 50%;
+  margin: auto;
+
+  .title {
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.801);
+  }
+
+  ul {
+    list-style: none;
+
+    li {
+      margin: 20px;
+      background-color: rgba(5, 1, 17, 0.849);
+      padding: 10px;
+      color: white;
+    }
+  }
+}
